@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+<img src="assets/android-chrome-192x192.png" width="64" height="64" alt="Resonaura Logo" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# RESONAURA (Legacy Band Website)
 
-## Available Scripts
+[![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)](package.json)
+[![React](https://img.shields.io/badge/React-18-61DAFB.svg?logo=react&logoColor=black)](package.json)
+[![Bundler](https://img.shields.io/badge/Bundler-Vite-646CFF.svg?logo=vite&logoColor=white)](package.json)
+[![Successor](https://img.shields.io/badge/Next%20Gen-rsnra.link-8A2BE2.svg)](https://rsnra.link)
 
-In the project directory, you can run:
+The legacy official website for the alternative rock band **RESONAURA** (Vancouver, BC).
 
-### `yarn start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🎶 The Evolution to rsnra.link
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This repository represents the earlier standalone web presence for **resonaura.com**. 
 
-### `yarn test`
+Together with the **AuthorPlay** project, this website served as the key inspiration and architectural foundation that led to the creation of **[rsnra.link](https://rsnra.link)** — a hybrid music ecosystem combining direct high-fidelity streaming, interactive band storytelling, and an all-in-one smart links hub connecting fans to all major platforms (Spotify, Apple Music, YouTube, and beyond).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+## 🛠️ Stack & Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend**: React 18 with Vite
+- **Localization**: Multi-language support via `i18next`
+- **Navigation**: Client-side routing with `react-router-dom`
+- **Animations & Assets**: Smooth transition groups and progressive image loading
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Getting Started
 
-### `yarn eject`
+```bash
+# Install dependencies
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Start development server
+npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Production build
+npm run build
+```
