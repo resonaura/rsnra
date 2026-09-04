@@ -6,6 +6,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg?logo=react&logoColor=black)](package.json)
 [![Bundler](https://img.shields.io/badge/Bundler-Vite-646CFF.svg?logo=vite&logoColor=white)](package.json)
 [![Successor](https://img.shields.io/badge/Next%20Gen-rsnra.link-8A2BE2.svg)](https://rsnra.link)
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resonaura)
 
 The legacy official website for the alternative rock band **RESONAURA** (Vancouver, BC).
