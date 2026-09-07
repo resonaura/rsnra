@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/resonaura/rsnra/main/assets/android-chrome-192x192.png" width="64" height="64" alt="Resonaura Logo" />
+<img src="https://raw.githubusercontent.com/resonaura/rsnra/main/assets/android-chrome-192x192.png" width="64" alt="Resonaura Logo" />
 
 # RESONAURA (Legacy Band Website)
 
