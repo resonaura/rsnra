@@ -18,7 +18,7 @@ The legacy official website for the alternative rock band **RESONAURA** (Vancouv
 
 This repository represents the earlier standalone web presence for **resonaura.com**. 
 
-Together with the **AuthorPlay** project, this website served as the key inspiration and architectural foundation that led to the creation of **[rsnra.link](https://rsnra.link)** — a hybrid music ecosystem combining direct high-fidelity streaming, interactive band storytelling, and an all-in-one smart links hub connecting fans to all major platforms (Spotify, Apple Music, YouTube, and beyond).
+Together with the **AuthorPlay** project, this website served as the key inspiration and architectural foundation that led to the creation of **[rsnra.link](https://rsnra.link)** — a modern full-stack music ecosystem built with **Next.js 16**, **React 19**, **NestJS**, and **Fastify**, combining direct high-fidelity streaming, interactive band storytelling, and an all-in-one smart links hub connecting fans to all major platforms (Spotify, Apple Music, YouTube, and beyond).
 
 ---
 
